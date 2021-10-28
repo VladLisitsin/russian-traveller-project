@@ -1,0 +1,16 @@
+.header__lung-link {
+    display: inline-block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.header__lung-link:nth-last-of-type(1) {
+    margin-left: 18px;
+}
+.header__lung-link:active {
+    text-decoration:underline;
+}
