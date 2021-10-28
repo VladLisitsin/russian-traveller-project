@@ -1,0 +1,11 @@
+.main-topic__title {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 1.10;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 48px 16px 16px 16px;
+}

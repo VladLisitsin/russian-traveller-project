@@ -1,0 +1,11 @@
+.main-topic__subtitle {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: center;
+    color: white;
+    margin: 0;
+    padding: 0 16px 40px 16px;
+}
