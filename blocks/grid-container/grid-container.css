@@ -1,0 +1,23 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    gap: 12px;
+}
+@media screen and (min-width:768px) {
+    .grid-container {
+        grid-template-columns: min-content min-content;
+        gap: 16px;
+    }
+}
+@media screen and (min-width:1024px) {
+    .grid-container {
+        grid-template-columns: repeat(3, min-content);
+        gap: 14px;
+    }
+}
+@media screen and (min-width:1280px) {
+    .grid-container {
+        grid-template-columns: repeat(4, min-content);
+        gap: 14px;
+    }
+}

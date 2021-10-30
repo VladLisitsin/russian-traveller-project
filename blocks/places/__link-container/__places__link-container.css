@@ -1,0 +1,15 @@
+@media screen and (min-width:768px) {
+    .places__link-container {
+        width: 352px;
+    }   
+}
+@media screen and (min-width:1024px) {
+    .places__link-container {
+        width: 456px;
+    }   
+}
+@media screen and (min-width:1280px) {
+    .places__link-container {
+        width: 484px;
+    }   
+}

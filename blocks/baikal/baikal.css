@@ -1,0 +1,43 @@
+.baikal {
+    display: block;
+    background-image: url(../../images/cover-trains.jpg);
+    width: 100vw;
+    height: 62.5vw;
+    background-size: cover;
+    background-position: center;
+    text-decoration: none;
+    padding: 33px 16px;
+    box-sizing: border-box;
+    position: relative;
+}
+.baikal::before {
+    content:"";
+    background-color: #2A2C2F;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+}
+.baikal:hover::before {
+    opacity: 0.8;
+}
+@media screen and (min-width:768px) {
+    .baikal {
+        padding: 115px 104px;
+    }
+}
+@media screen and (min-width:1024px) {
+    .baikal {
+        padding: 195px 232px;
+    }
+}
+@media screen and (min-width:1280px) {
+    .baikal {
+        padding: 245px 312px;
+        width: 1184px;
+        height: 740px;
+        margin: 0 auto;
+    }
+}

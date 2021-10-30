@@ -1,0 +1,19 @@
+.places__link {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+    display:block;
+    margin: 0 16px 32px 16px;
+}
+.places__link:hover {
+    opacity: 0.5;
+}
+
+@media screen and (min-width:768px) {
+    .places__link {
+    margin: 0;
+    }  
+}
