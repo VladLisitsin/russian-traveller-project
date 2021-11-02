@@ -1,6 +1,10 @@
 .cover {
     padding-top: 66px;
     background-color: #2A2C2F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
 @media screen and (min-width:768px) {
     .cover {

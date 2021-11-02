@@ -9,6 +9,7 @@
     padding: 33px 16px;
     box-sizing: border-box;
     position: relative;
+    
 }
 .baikal::before {
     content:"";
@@ -18,7 +19,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    opacity: 0;
+    opacity: 0.3;
 }
 .baikal:hover::before {
     opacity: 0.8;
@@ -38,6 +39,5 @@
         padding: 245px 312px;
         width: 1184px;
         height: 740px;
-        margin: 0 auto;
     }
 }

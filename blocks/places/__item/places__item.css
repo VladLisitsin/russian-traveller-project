@@ -1,5 +1,6 @@
 .places__item {
     margin-bottom: 50px;
+    display: inline-block;
 }
 .places__item:nth-of-type(5) {
     margin-bottom: 0;
@@ -7,5 +8,10 @@
 @media screen and (min-width:768px) {
     .places__item {
         margin-bottom: 73px;          
+    }
+}
+@media screen and (min-width:1024px) {
+    .places__item {
+        margin-bottom: 80px;          
     }
 }

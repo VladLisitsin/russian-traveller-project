@@ -1,5 +1,5 @@
 .main-topic__title {
-    font-family: "Inter";
+    font-family: Inter, Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 40px;
@@ -9,28 +9,19 @@
     margin: 48px auto 16px auto;
 }
 
-@media screen and (min-width:525px) and (max-width:767px) {
-    .main-topic__title {
-        font-size: 60px;
-        line-height: 62px;
-    }
-}
-
-@media screen and (min-width:768px) and (max-width:1280px) {
+@media screen and (min-width:768px)  {
     .main-topic__title {
         font-size: 96px;
         line-height: 100px;
+        max-width: 720px;
+        max-height: 200px;
         margin: 48px auto 32px auto;
     }
 }
-@media screen and (min-width:1024px)  {
-    .main-topic__title {
-        font-size: 96px;
-        line-height: 100px;
-    }
-}
+
 @media screen and (min-width:1280px){
     .main-topic__title {
         margin: 56px auto 32px auto;
     }   
 }
+

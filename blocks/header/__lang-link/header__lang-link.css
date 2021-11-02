@@ -1,5 +1,5 @@
 .header__lang-link {
-    font-family: Inter;
+    font-family: Inter, Arial, Helvetica, sans-serif;
     display: inline-block;
     font-style: normal;
     font-weight: normal;
@@ -7,6 +7,10 @@
     line-height: 20px;
     color: white;
     text-decoration: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 .header__lang-link:first-of-type {
