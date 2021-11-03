@@ -1,10 +1,13 @@
 .places__image {
     width: 100%;
+    display: block;
+    margin-bottom: 7px;
 }
 @media screen and (min-width:768px) {
     .places__image {
         max-height: 340px;
         max-width: 340px;
+        margin: 0;
     }
 }
 @media screen and (min-width:1024px) {

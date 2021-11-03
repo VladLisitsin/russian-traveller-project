@@ -5,11 +5,16 @@
     font-size: 16px;
     line-height: 26px;
     color: white;
-    padding: 0 16px 0 16px;
+    padding: 25px 16px 0 16px;
     margin: 0;
 }
 @media screen and (min-width:768px) {
     .places__text {
+        padding:25px 0 0 0;
+    } 
+}
+@media screen and (min-width:768px) {
+    .places__text:first-of-type {
         padding:0;
     } 
 }

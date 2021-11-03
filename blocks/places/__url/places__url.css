@@ -8,6 +8,7 @@
     padding: 0 16px 12px 16px;
     order: 2;
     margin: 0;
+    text-transform: uppercase;
 }
 @media screen and (min-width:768px) {
     .places__url {

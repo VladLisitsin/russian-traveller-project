@@ -1,7 +1,14 @@
-.footer__item {
-    padding-bottom: 32px;
-    margin: 0;
+@media screen and (min-width:320px) {
+    .footer__item {
+        padding-bottom: 32px;
+        margin: 0;
+    }
+    .footer__item:last-of-type {
+        padding: 0;
+    }
 }
-.footer__item:nth-of-type(5) {
-    padding-bottom: 0;
+@media screen and (min-width:768px) {
+    .footer__item {
+        padding: 0;
+    }
 }
