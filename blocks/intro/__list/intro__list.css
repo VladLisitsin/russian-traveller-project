@@ -1,21 +1,21 @@
 .intro__list {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 18px;
-    color: white;
-    list-style-type: none;
-    padding: 0 0px 64px 0px;
-    margin: 0;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  color: white;
+  list-style-type: none;
+  padding: 0 0px 64px 0px;
+  margin: 0;
 }
-@media screen and (min-width:768px) {
-    .intro__list {
-        padding: 0 0px 88px 0px;
-    }
+@media screen and (min-width: 768px) {
+  .intro__list {
+    padding: 0 0px 88px 0px;
+  }
 }
-@media screen and (min-width:1024px) {
-    .intro__list {
-        padding: 0 0px 92px 0px;
-    }
+@media screen and (min-width: 1024px) {
+  .intro__list {
+    padding: 0 0px 92px 0px;
+  }
 }

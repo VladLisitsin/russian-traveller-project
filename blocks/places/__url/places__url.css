@@ -1,22 +1,22 @@
 .places__url {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 12px;
-    color: #AAAAAA;
-    padding: 0 16px 12px 16px;
-    order: 2;
-    text-transform: uppercase;
-    margin: 0;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 12px;
+  color: #aaaaaa;
+  padding: 0 16px 12px 16px;
+  order: 2;
+  text-transform: uppercase;
+  margin: 0;
 }
-@media screen and (min-width:768px) {
-    .places__url {
-        padding: 0 0 12px 0;
-    }  
+@media screen and (min-width: 768px) {
+  .places__url {
+    padding: 0 0 12px 0;
+  }
 }
-@media screen and (min-width:1024px) {
-    .places__url {
-        line-height: 20.4px;
-    }  
+@media screen and (min-width: 1024px) {
+  .places__url {
+    line-height: 20.4px;
+  }
 }

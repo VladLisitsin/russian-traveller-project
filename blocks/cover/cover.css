@@ -1,18 +1,18 @@
 .cover {
-    padding-top: 66px;
-    background-color: #2A2C2F;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
+  padding-top: 66px;
+  background-color: #2a2c2f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
 }
-@media screen and (min-width:768px) {
-    .cover {
-        padding-top: 90px;
-    }
+@media screen and (min-width: 768px) {
+  .cover {
+    padding-top: 90px;
+  }
 }
-@media screen and (min-width:1024px) {
-    .cover {
-        padding-top: 92px;
-    }
+@media screen and (min-width: 1024px) {
+  .cover {
+    padding-top: 92px;
+  }
 }

@@ -1,17 +1,17 @@
 .header__link-container {
-    margin: 30px 16px 0 0;
-    display: flex;
-    width: 62px;
-    justify-content: space-between;
+  margin: 30px 16px 0 0;
+  display: flex;
+  width: 62px;
+  justify-content: space-between;
 }
-@media screen and (min-width:768px) {
-    .header__link-container {
-        margin: 46px 24px 0 0;
-        width: 80px;
-    }
+@media screen and (min-width: 768px) {
+  .header__link-container {
+    margin: 46px 24px 0 0;
+    width: 80px;
+  }
 }
-@media screen and (min-width:1024px) {
-    .header__link-container {
-        margin: 46px 48px 0 0;
-    }
+@media screen and (min-width: 1024px) {
+  .header__link-container {
+    margin: 46px 48px 0 0;
+  }
 }

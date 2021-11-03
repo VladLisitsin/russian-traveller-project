@@ -1,17 +1,17 @@
 .footer {
-    background-color: #2A2C2F;
-    margin: 0;
-    padding: 0;
+  background-color: #2a2c2f;
+  margin: 0;
+  padding: 0;
 }
-@media screen and (min-width:768px) {
-    .footer {
-        display: flex;
-        justify-content: space-between;
-        padding: 88px 24px 24px 24px;
-    }
+@media screen and (min-width: 768px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 88px 24px 24px 24px;
+  }
 }
-@media screen and (min-width:1024px) {
-    .footer {
-        padding: 92px 48px 24px 48px;
-    }
+@media screen and (min-width: 1024px) {
+  .footer {
+    padding: 92px 48px 24px 48px;
+  }
 }

@@ -1,15 +1,15 @@
 .main-topic__image {
-    width: 100%;
-    object-fit: cover;
+  width: 100%;
+  object-fit: cover;
 }
-@media screen and (min-width:1024px) {
-    .main-topic__image {
-        width: 928px;
-    }
+@media screen and (min-width: 1024px) {
+  .main-topic__image {
+    width: 928px;
+  }
 }
 
-@media screen and (min-width:1280px) {
-    .main-topic__image {
-        width: 984px;
-    }
+@media screen and (min-width: 1280px) {
+  .main-topic__image {
+    width: 984px;
+  }
 }

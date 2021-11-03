@@ -1,24 +1,24 @@
 .baikal__text {
-    margin: 16px 0 0 0;
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: center;
-    color: white;
-    position: relative;
-    width: 288px;
-    height: 48px;
-    text-align: center;
+  margin: 16px 0 0 0;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  color: white;
+  position: relative;
+  width: 288px;
+  height: 48px;
+  text-align: center;
 }
-@media screen and (min-width:768px) {
-    .baikal__text {
-        padding: 32px 0 0 0;
-        font-size: 18px;
-        line-height: 22px;
-        width: 360px;
-        height: 66px;
-        margin: 0 auto;
-    }
+@media screen and (min-width: 768px) {
+  .baikal__text {
+    padding: 32px 0 0 0;
+    font-size: 18px;
+    line-height: 22px;
+    width: 360px;
+    height: 66px;
+    margin: 0 auto;
+  }
 }

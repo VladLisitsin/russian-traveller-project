@@ -1,20 +1,20 @@
-@media screen and (min-width:768px) {
-    .places__flex-container {
-        display:flex;
-        justify-content: space-between;
-        max-width: 720px;
-        gap: 24px;
-    }
+@media screen and (min-width: 768px) {
+  .places__flex-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 720px;
+    gap: 24px;
+  }
 }
-@media screen and (min-width:1024px) {
-    .places__flex-container {
-        max-width: 928px;
-        gap: 32px;
-    }
+@media screen and (min-width: 1024px) {
+  .places__flex-container {
+    max-width: 928px;
+    gap: 32px;
+  }
 }
-@media screen and (min-width:1280px) {
-    .places__flex-container {
-        max-width: 984px;
-        gap: 40px;
-    }
+@media screen and (min-width: 1280px) {
+  .places__flex-container {
+    max-width: 984px;
+    gap: 40px;
+  }
 }

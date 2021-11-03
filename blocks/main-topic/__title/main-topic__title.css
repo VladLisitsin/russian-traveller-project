@@ -1,27 +1,26 @@
 .main-topic__title {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 40px;
-    line-height: 1.10;
-    color: white;
-    text-align: center;
-    margin: 48px auto 16px auto;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 1.1;
+  color: white;
+  text-align: center;
+  margin: 48px auto 16px auto;
 }
 
-@media screen and (min-width:768px)  {
-    .main-topic__title {
-        font-size: 96px;
-        line-height: 100px;
-        max-width: 720px;
-        max-height: 200px;
-        margin: 48px auto 32px auto;
-    }
+@media screen and (min-width: 768px) {
+  .main-topic__title {
+    font-size: 96px;
+    line-height: 100px;
+    max-width: 720px;
+    max-height: 200px;
+    margin: 48px auto 32px auto;
+  }
 }
 
-@media screen and (min-width:1280px){
-    .main-topic__title {
-        margin: 56px auto 32px auto;
-    }   
+@media screen and (min-width: 1280px) {
+  .main-topic__title {
+    margin: 56px auto 32px auto;
+  }
 }
-
