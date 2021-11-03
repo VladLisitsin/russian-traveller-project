@@ -8,17 +8,17 @@
     text-transform: uppercase;
     color: white;
     margin: 0;
-    padding: 8px 0 64px 16px;
+    padding: 8px 0 61px 16px;
 }
 
 @media screen and (min-width:768px) {
     .main-topic__caption {
-        padding: 8px 0 88px 24px;
+        padding: 8px 0 86px 24px;
     }
 }
 
 @media screen and (min-width:1024px) {
     .main-topic__caption {
-        padding: 8px 0 92px 0px;
+        padding: 8px 0 89px 0px;
     }
 }

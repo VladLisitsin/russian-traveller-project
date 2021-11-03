@@ -6,7 +6,7 @@
     line-height: 22px;
     color: white;
     display: block;
-    margin: 0 16px 32px 16px;
+    margin: 0 16px 0 16px;
 }
 .places__link:hover {
     opacity: 0.8;
