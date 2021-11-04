@@ -9,8 +9,6 @@
   color: white;
   position: relative;
   width: 288px;
-  height: 48px;
-  text-align: center;
 }
 @media screen and (min-width: 768px) {
   .baikal__text {
@@ -18,7 +16,6 @@
     font-size: 18px;
     line-height: 22px;
     width: 360px;
-    height: 66px;
     margin: 0 auto;
   }
 }

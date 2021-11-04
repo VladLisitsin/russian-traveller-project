@@ -1,0 +1,9 @@
+.intro__list-item-text {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  color: white;
+  margin: 0;
+}
